@@ -1,0 +1,17 @@
+{
+  "name": "vue3-pagination-component",
+  "version": "1.0.0",
+  "description": "Pagination component for Vue3",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3",
+    "pagination",
+    "paginate"
+  ],
+  "author": "Servet Tuncel",
+  "license": "MIT"
+}
