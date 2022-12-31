@@ -37,9 +37,8 @@ export default  {
 ```
 
 ## Props
-- `total-pages`: The total number of pages to display in the pagination component.
-- `page-size`: (Optional) The number of items to display per page. Default is 10.
-- `initial-page`: (Optional) The initial page to display. Default is 1.
+- `total`: The total number of pages to display in the pagination component.
+- `per-page`: (Optional) The number of items to display per page. Default is 15.
 
 ## Events
 - `page-change`: Emitted when the current page is changed. The new page number is passed as an argument.
