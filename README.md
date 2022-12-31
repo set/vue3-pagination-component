@@ -27,11 +27,6 @@ export default  {
       totalPages: 10
     }
   },
-  methods: {
-    handlePageChange (page)  {
-      // Do something with the page change event
-    }
-  }
 }
 </script>
 ```

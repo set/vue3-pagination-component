@@ -1,6 +1,6 @@
 {
   "name": "vue3-pagination-component",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Pagination component for Vue3",
   "main": "index.js",
   "devDependencies": {},
