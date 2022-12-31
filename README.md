@@ -17,7 +17,7 @@ To  use  the  component,  import  it  into  your  Vue.js  app  and  add  it  to 
 </template>
 
 <script>
-import PaginationComponent from 'vue-pagination-component'
+import PaginationComponent from 'vue3-pagination-component'
 export default  {
   components: {
     PaginationComponent
