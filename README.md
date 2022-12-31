@@ -40,8 +40,5 @@ export default  {
 - `total`: The total number of pages to display in the pagination component.
 - `per-page`: (Optional) The number of items to display per page. Default is 15.
 
-## Events
-- `page-change`: Emitted when the current page is changed. The new page number is passed as an argument.
-
 ## License
 This component is open source and released under the MIT License.
